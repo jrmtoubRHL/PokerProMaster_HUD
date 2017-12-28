@@ -22,7 +22,7 @@ Then check if the player changed or not every frame (very quick operation)
 
 
 ### Disclamer:
-- `This project is not ended, i stopped working on it as i notice a ` [comercial launch](https://hand2note.com/PokerMaster)`from good developpers.. 
+- `This project is not finished, i stopped working on it as i notice a ` [comercial launch](https://hand2note.com/PokerMaster)`from good developpers.. 
 Even though the hardest challenges were solved, it would have required a more of work (Specially the license stuff (code obfuscation), some performance tweaks as well as a lot of tests/debugging) `
 
 - All the OCR part was done, but not incluyed as i will probably open-sourced it later as an independent module.
