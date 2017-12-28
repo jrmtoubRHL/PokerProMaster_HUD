@@ -1,0 +1,3 @@
+pyautogui
+opencv (cv2)
+numpy
