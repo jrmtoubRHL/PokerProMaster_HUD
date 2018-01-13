@@ -32,7 +32,7 @@ Even though the hardest challenges were solved, it would have required a lot mor
 
 
 
-### Working stuff:
+### Working stuff :
 
 - Find tables:
     - By image detection, 
@@ -43,7 +43,7 @@ Even though the hardest challenges were solved, it would have required a lot mor
 - Find player with cards
 - Recognize cards/action/bets etc
 
-### Todo roadmap:
+### To do :
 
 - Find format to save the hands locally to ...
 - ... Dataming/test as same time ..
