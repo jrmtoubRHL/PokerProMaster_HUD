@@ -25,7 +25,7 @@ Then check if the player changed or not every frame (very quick operation)
 - `This project is not finished, i stopped working on it as i notice a ` [comercial launch](https://hand2note.com/PokerMaster)`from good developpers.. 
 Even though the hardest challenges were solved, it would have required a lot more work (Specially the license stuff (code obfuscation), some performance tweaks as well as a lot of tests/debugging.`
 
-`As Pokerminion (tableninja like (and a lot more) for these sites, will come out very soon [Link](www.future-link.com) i might considering retaking this project with the Pokerminion's developer`
+`As Pokerminion (tableninja like (and a lot more) for these sites, will come out very soon` [Link](www.future-link.com) `i might considering retaking this project with the Pokerminion's developer`
 
 - All the OCR part was done as well, but i t is not incluyed as i will probably open-sourced it later as an independent module/project.
 
